@@ -1,0 +1,171 @@
+.donate{
+    height: 85vh;
+    width: 100vw;
+    
+   background-color:white;
+}
+.img-fluid{
+    height: 100%;
+    width: 100%;
+object-fit:fill;
+    
+}
+.contentt{
+    
+    position: absolute;
+    width: 350px;
+    height: 270px;
+    margin-top:-270px;
+    margin-left:200px;
+    transform: translate(-50%,-50%);
+    color:white;
+    
+    text-align:center;
+
+}
+.donatee{
+    background-color: red;
+    height: 40px;
+    width: 170px;
+    border: 1px solid white;
+    color:black;
+    font-size: 14px;
+    /* padding: 10px 25px; */
+    border-radius: 10px;
+    }
+    button:hover{
+        background:white;
+        color:black;
+    }
+    .bookss{
+        background-color:pink;
+        height: 40px;
+        width: 170px;
+        margin-left: 990px;
+        border: 1px solid white;
+        color:black;
+        font-size: 14px;
+        padding: 10px 25px;
+        border-radius: 10px;  
+    }
+  .books{
+    height: 600px;
+    background-color:beige;
+  }  
+  .img-fluidd{
+    height: 500px;
+    width: 600px;
+    margin-top: 60px;
+    margin-left: 50px;
+  }
+  .book1{
+    color: black;
+    margin-left: 820px;
+    margin-top: -500px;
+  }
+  .book2{
+    color:darkturquoise;
+    margin-left:  750px;
+    margin-top: 30px;
+    font-size: xx-large;
+  }
+  .book3{
+    color: #4d4d4d;
+    margin-left: 750px;
+    margin-top: 30px;
+    font-size: x-large;
+  }
+  .book{
+    height: 600px;
+    background-color: beige;
+  }
+  .book11{
+    color: black;
+    margin-left: 80px;
+    margin-top: -500px;
+  }
+  .book22{
+    color:darkturquoise;
+    margin-left:  60px;
+    margin-top: 10px;
+    font-size: xx-large;
+  }
+  .book33{
+    color: #4d4d4d;
+    margin-left:70px;
+    margin-top: 30px;
+    font-size: x-large;
+  }
+  .booksss{
+    
+        background-color:pink;
+        height: 40px;
+        width: 170px;
+        margin-left: -880px;
+        border: 1px solid white;
+        color:black;
+        font-size: 14px;
+        padding: 10px 25px;
+        border-radius: 10px;  
+    }
+  
+  .img-fluiddd{
+    height: 500px;
+    width: 600px;
+    margin-top: 60px;
+    margin-left: 700px;
+  }
+  .booked{
+    background-color:darkturquoise;
+    height: 40px;
+    width: 170px;
+    margin-left: -370px;
+    border: 1px solid white;
+    color:black;
+    font-size: 14px;
+    padding: 10px 25px;
+    border-radius: 10px;  
+  }
+  .space{
+    margin-left: 1180px;
+  }
+  
+.form_item input[type="text"],
+.form_item select{
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #dadce0;
+  border-radius: 3px;
+}
+.btn input[type="submit"]{
+  background: #1598d4;
+  border: 1px solid #1598d4;
+  padding: 10px;
+  width: 100%;
+  font-size: 16px;
+  letter-spacing: 1px;
+  margin-left: 70px;
+  border-radius: 3px;
+  cursor: pointer;
+  color: #fff;
+}
+.form_wrap.fullname,
+.form_wrap.select_box{
+  display: flex;
+}
+
+.form_wrap.fullname .form_item,
+.form_wrap.select_box .form_item{
+  width: 50%;
+}
+
+.form_wrap.fullname .form_item:first-child,
+.form_wrap.select_box .form_item:first-child{
+  margin-right: 4%;
+}
+
+.wrapper .form_container .form_item label{
+  display: block;
+  margin-bottom: 5px;
+}
